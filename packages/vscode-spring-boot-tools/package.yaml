@@ -4,7 +4,7 @@ description: |
   VS Code Language Server for Spring Boot
   VSCode extension and Language Server providing support for working with Spring Boot application.properties, application.yml and .java files.
 
-  Note: this extension has a dependency on VS Code extension of Language Support for Java™ by Red Hat.
+  Note: this extension has a dependency on VS Code extension of Language Support for Java™ by Red Hat
 homepage: https://github.com/spring-projects/sts4
 licenses:
   - EPL-1.0
