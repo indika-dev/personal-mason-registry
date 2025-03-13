@@ -1,4 +1,3 @@
----
 name: vscode-spring-boot-tools
 description: |
   VS Code Language Server for Spring Boot
@@ -14,7 +13,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:openvsx/VMware/vscode-spring-boot@1.60.0
+  id: pkg:openvsx/VMware/vscode-spring-boot@1.61.0
   download:
     file: VMware.vscode-spring-boot-{{version}}.vsix
 
