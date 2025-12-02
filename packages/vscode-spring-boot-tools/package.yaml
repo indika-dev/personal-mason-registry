@@ -13,7 +13,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:openvsx/VMware/vscode-spring-boot@1.64.1
+  id: pkg:openvsx/VMware/vscode-spring-boot@2.0.2025120108
   download:
     file: VMware.vscode-spring-boot-{{version}}.vsix
 
