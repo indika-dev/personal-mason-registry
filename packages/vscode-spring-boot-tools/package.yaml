@@ -13,7 +13,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:openvsx/VMware/vscode-spring-boot@2.1.2025122000
+  id: pkg:openvsx/VMware/vscode-spring-boot@2.1.2025122300
   download:
     file: VMware.vscode-spring-boot-{{version}}.vsix
 
@@ -22,4 +22,4 @@ schemas:
 
 share:
   vscode-spring-boot-tools/jdtls/: extension/jars/
-  vscode-spring-boot-tools/language-server.jar: extension/language-server/spring-boot-language-server-2.1.0-SNAPSHOT-exec.jar
+  vscode-spring-boot-tools/language-server.jar: extension/language-server/spring-boot-language-server-{{version}}-SNAPSHOT-exec.jar
