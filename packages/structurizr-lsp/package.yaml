@@ -11,7 +11,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:golang/github.com/tacsiazuma/structurizr-lsp@v0.0.3
+  id: pkg:golang/github.com/tacsiazuma/structurizr-lsp@v0.0.9
 
 bin:
   structurizr-lsp: golang:structurizr-lsp
