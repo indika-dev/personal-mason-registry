@@ -16,7 +16,8 @@ source:
   # renovate:datasource=github-tags
   id: pkg:generic/VMware/vscode-spring-boot@2.1.2026030700
   download:
-    file: https://github.com/indika-dev/repackage-sbt/releases/download/{{ version | strip_prefix "v" }}/VMware.vscode-spring-boot.vsix
+    - files:
+        VMware.vscode-spring-boot.vsix: https://github.com/indika-dev/repackage-sbt/releases/download/{{ version | strip_prefix "v" }}/VMware.vscode-spring-boot.vsix
 
 schemas:
   lsp: vscode:https://raw.githubusercontent.com/spring-projects/sts4/master/vscode-extensions/vscode-spring-boot/package.json
