@@ -14,7 +14,7 @@ categories:
 
 source:
   # renovate:datasource=github-tags
-  id: pkg:github/indika-dev/repackage-sbt@2.3.2026071800
+  id: pkg:github/indika-dev/repackage-sbt@2.3.2026072100
   asset:
     file: VMware.vscode-spring-boot.vsix
 
